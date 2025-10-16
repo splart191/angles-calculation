@@ -1,0 +1,4 @@
+Data/*.hdf filter=lfs diff=lfs merge=lfs -text
+Data/*.nc filter=lfs diff=lfs merge=lfs -text
+Data/*.raw filter=lfs diff=lfs merge=lfs -text
+Data/*.RAW filter=lfs diff=lfs merge=lfs -text
